@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studies<br>Web Dev
+<br>Web/App Developer
 
 
 ## 🌐 Socials:
